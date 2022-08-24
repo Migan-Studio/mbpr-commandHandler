@@ -1,6 +1,6 @@
 {
   "name": "mbpr-commandhandler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "discommand, but Command Handler only",
   "main": "dist/index.js",
   "repository": "https://github.com/discommand/discommand-lite",

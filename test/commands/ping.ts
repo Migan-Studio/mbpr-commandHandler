@@ -1,5 +1,5 @@
 import { Command } from '../../dist'
-import { ChatInputCommandInteraction, Locale } from 'discord.js'
+import { ChatInputCommandInteraction } from 'discord.js'
 
 export default class extends Command {
   name = 'ping'
